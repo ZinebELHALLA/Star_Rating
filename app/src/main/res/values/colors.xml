@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#A020F0</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="teal">#008080</color>
+    <color name="green">#006666</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Example color -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Example color -->
+    <color name="colorAccent">#03DAC5</color> <!-- Example color -->
+    <color name="colorPrimaryBlack">#000000</color> <!-- Example for dark theme -->
+    <color name="colorWhite">#FFFFFF</color> <!-- Optional for light theme -->
+</resources>
