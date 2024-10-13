@@ -43,3 +43,5 @@ Pour installer et exécuter **Star Rate** localement, suivez ces étapes :
 - **app/res/layout/activity_list.xml** : Mise en page de la liste des acteurs et de la barre de recherche.
 
 ## Démonstration
+https://github.com/user-attachments/assets/3ca7f92b-2f3f-4ddc-873f-123d824c6961
+
