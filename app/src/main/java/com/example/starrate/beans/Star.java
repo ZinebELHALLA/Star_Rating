@@ -1,3 +1,5 @@
+//Role : Définit la structure de données pour chaque star (acteur).
+
 package com.example.starrate.beans;
 
 public class Star {

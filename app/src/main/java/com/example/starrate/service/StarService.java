@@ -1,3 +1,5 @@
+//Role : Gère les opérations CRUD pour les objets Star.
+
 package com.example.starrate.service;
 
 import com.example.starrate.beans.Star;

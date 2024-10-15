@@ -1,6 +1,8 @@
-package com.example.starrate.adapters;
+//Role : Adapte les données des stars pour l'affichage dans le RecyclerView.
 
-import android.content.Context;
+
+
+package com.example.starrate.adapters;
 
 import com.example.starrate.R;
 

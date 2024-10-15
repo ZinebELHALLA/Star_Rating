@@ -3,6 +3,7 @@ package com.example.starrate;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.PopupMenu;
 import androidx.appcompat.app.AppCompatActivity;
@@ -50,6 +51,7 @@ public class ListActivity extends AppCompatActivity {
 
             @Override
             public boolean onQueryTextChange(String newText) {
+                Log.d("SearchView", "Texte entré: " + newText);
                 filter(newText);
                 return true;
             }
